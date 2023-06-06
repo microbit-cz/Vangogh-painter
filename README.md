@@ -1,6 +1,7 @@
 <p><img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/media/VanGogh.jpg"></p>
 <h1 align="center">VanGogh - Drive art, not just the direction!</h1>
 <p align="center">
+<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-%20MIT%20license-red"></a>
 <a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.md"><img alt="Cs readme" src="https://img.shields.io/badge/lang-en-blue"></a>
 <a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.cs.md"><img alt="Cs readme" src="https://img.shields.io/badge/lang-cs-red"></a>
 </p>
@@ -24,5 +25,3 @@ VanGogh is a vehicle that uses 3D printing technology, Microbit microcomputer, a
   <li>12x Lego pin 2780</li>
   <li><a href="https://github.com/Pixelgon/pxt-pixelgon-example">VanGogh extension library</a></li>
 </ul>
-
-# I believe the design is so intuitive that no assembly instructions are needed. Good luck.
