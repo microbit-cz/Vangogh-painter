@@ -1,8 +1,9 @@
 <p><img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/media/VanGogh.jpg"></p>
+<h1 align="center">VanGogh - Řid umění, nejen směr!</h1>
 <p align="center">
-# VanGogh - Řid umění, nejen směr!
-[![cs](https://img.shields.io/badge/lang-cs-red)](https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.cs.md)
-[![en](https://img.shields.io/badge/lang-en-blue)](https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.md)</p>
+<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.cs.md"><img alt="Cs readme" src="https://img.shields.io/badge/lang-cs-red"></a>
+<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.md"><img alt="Cs readme" src="https://img.shields.io/badge/lang-en-blue"></a>
+</p>
 
 VanGogh je vozítko, který využívá technologii 3D tisku, mikropočítače Microbit a spoustu jiných součástek jako serva a krokové motory. Finální produkt dokáže společně s <a href="https://github.com/Pixelgon/pxt-pixelgon-example">VanGogh extension knihovnou</a> kreslit. Od toho pochází i název VanGogh (Dodávka, která maluje). Lze využí jako rychlá a jednochá domonstrace programování.
 
