@@ -2,8 +2,8 @@
 <h1 align="center">VanGogh - Drive art, not just the direction!</h1>
 <p align="center">
 <a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-%20MIT%20license-red"></a>
-<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.md"><img alt="Cs readme" src="https://img.shields.io/badge/lang-en-blue"></a>
-<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.cs.md"><img alt="Cs readme" src="https://img.shields.io/badge/lang-cs-red"></a>
+<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.md"><img alt="Cs readme" src="https://img.shields.io/badge/language-en-blue"></a>
+<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.cs.md"><img alt="Cs readme" src="https://img.shields.io/badge/language-cs-red"></a>
 </p>
 
 VanGogh is a vehicle that uses 3D printing technology, Microbit microcomputer, and lots of other components like servos and stepper motors. The final product can draw together with the <a href="https://github.com/Pixelgon/pxt-pixelgon-example">VanGogh extension library.</a> Hence the name VanGogh (The van that paints). Also it can be used as a quick and easy demonstration of programming.
