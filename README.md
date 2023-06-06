@@ -30,6 +30,8 @@ VanGogh is a vehicle that uses 3D printing technology, Microbit microcomputer, a
 <li>22 meters of your favorite filament (Tested on PLA).</li>
 <li>Solder for easy installation of inserts.</li>
 
+Before printing, I would recommend measuring the diameter of the writing utensil you want to use (I recommend a marker) and lengthen or shorten the insert accordingly (Not to be confused with a screw insert).
+
 # Assembly
 <ol>
   <li>Insert the inserts with a solder into the holes provided for them (they are on the sides next to the holes for the stepper motors and 4 from the bottom on the platform for the board. One insert also belongs to the penholder, you can see in the picture)</li>
