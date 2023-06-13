@@ -14,7 +14,7 @@ VanGogh je vozítko, který využívá technologii 3D tisku, mikropočítače Mi
   <li><a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/STL">Konstrukce VanGogh + penholder</a></li>
   <li><a href="https://www.printables.com/cs/model/459596-connection-hub-for-28byj-48-stepper">2x Adaptér 6514TT 65mm lego kola na krokové motory.</a></li>
   <li>Deska Micro:bit.</li>
-  <li>Rozšiřujíci deska Motor:bit.</li>
+  <li><a href="https://www.aliexpress.com/item/1005004959920270.html">Rozšiřujíci deska Motor:bit.</a></li>
   <li>2x Krokové motory 28BYJ-48 5V DC.</li>
   <li>Micro servo 9g SG90 se zvedacím ramenem (obvykle v balení).</li>
   <li>2x 6514TT 65mm Lego kolo.</li>
