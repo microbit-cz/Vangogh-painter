@@ -14,7 +14,7 @@ VanGogh is a vehicle that uses 3D printing technology, Microbit microcomputer, a
   <li><a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/STL">VanGogh construction + penholder.</a></li>
   <li><a href="https://www.printables.com/cs/model/459596-connection-hub-for-28byj-48-stepper">2x Adapter 6514TT 65mm lego wheel for 28BYJ-48 5V DC stepper motor.</a></li>
   <li>Micro:bit board.</li>
-  <li>Motor:bit expansion board.</li>
+  <li><a href="https://www.aliexpress.com/item/1005004959920270.html">Motor:bit expansion board.</a></li>
   <li>2x Stepper motor 28BYJ-48 5V DC.</li>
   <li>Micro servo 9g SG90 with a lifting arm (Usually packed with servo).</li>
   <li>2x 6514TT 65mm lego wheel.</li>
