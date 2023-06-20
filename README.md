@@ -1,17 +1,17 @@
 <p><img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/media/VanGogh.jpg"></p>
 <h1 align="center">VanGogh - Drive art, not just the direction!</h1>
 <p align="center">
-<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/LICENSE"><img alt="GPL3 license" src="https://img.shields.io/badge/license-%20GPL3%20license-red"></a>
-<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.md"><img alt="En readme" src="https://img.shields.io/badge/language-en-blue"></a>
-<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.cs.md""><img alt="Cs readme" src="https://img.shields.io/badge/language-cs-red"></a>
+<a href="./LICENSE"><img alt="GPL3 license" src="https://img.shields.io/badge/license-%20GPL3%20license-red"></a>
+<a href="./README.md"><img alt="En readme" src="https://img.shields.io/badge/language-en-blue"></a>
+<a href="./README.cs.md""><img alt="Cs readme" src="https://img.shields.io/badge/language-cs-red"></a>
 </p>
 
-VanGogh is a vehicle that uses 3D printing technology, Microbit microcomputer, and lots of other components like servos and stepper motors. The final product can draw together with the <a href="https://github.com/Pixelgon/pxt-pixelgon-example" target="_blank">VanGogh extension library.</a> Hence the name VanGogh (The van that paints). Also it can be used as a quick and easy demonstration of programming.
+VanGogh is a vehicle that uses 3D printing technology, Microbit microcomputer, and lots of other components like servos and stepper motors. The final product can draw together with the <a href="https://github.com/microbit-cz/pxt-vangogh-extension" target="_blank">VanGogh extension library.</a> Hence the name VanGogh (The van that paints). Also it can be used as a quick and easy demonstration of programming.
 
 # What do I need?
 ## Components
 <ul>
-  <li><a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/STL" target="_blank">VanGogh construction + penholder.</a></li>
+  <li><a href="./STL" target="_blank">VanGogh construction + penholder.</a></li>
   <li><a href="https://www.printables.com/cs/model/459596-connection-hub-for-28byj-48-stepper" target="_blank">2x Adapter 6514TT 65mm lego wheel for 28BYJ-48 5V DC stepper motor.</a></li>
   <li>Micro:bit board.</li>
   <li><a href="https://www.aliexpress.com/item/1005004959920270.html" target="_blank">Motor:bit expansion board.</a></li>
