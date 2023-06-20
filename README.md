@@ -22,7 +22,7 @@ VanGogh is a vehicle that uses 3D printing technology, Microbit microcomputer, a
   <li>4x M3 screw up to 6mm, 4x up to 4mm, 2x self drilling up to 6mm and 1x at least 14mm long.</li>
   <li>Support wheel.</li>
   <li>12x Lego pin 2780.</li>
-  <li><a href="https://github.com/Pixelgon/pxt-pixelgon-example" target="_blank">VanGogh extension library.</a></li>
+  <li><a href="https://github.com/microbit-cz/pxt-vangogh-extension" target="_blank">VanGogh extension library.</a></li>
 </ul>
 
 ## Prerequisites
