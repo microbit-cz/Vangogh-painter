@@ -18,7 +18,7 @@ VanGogh is a vehicle that uses 3D printing technology, Microbit microcomputer, a
   <li>2x Stepper motor 28BYJ-48 5V DC.</li>
   <li>Micro servo 9g SG90 with a lifting arm (Usually packed with servo).</li>
   <li>2x 6514TT 65mm lego wheel.</li>
-  <li>9x M3 Insert.</li>
+  <li>9x M3 Insert with outer diameter 5mm.</li>
   <li>4x M3 screw up to 6mm, 4x up to 4mm, 2x self drilling up to 6mm and 1x at least 14mm long.</li>
   <li>Support wheel.</li>
   <li>12x Lego pin 2780.</li>
