@@ -1,7 +1,7 @@
 <p><img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/media/VanGogh.jpg"></p>
 <h1 align="center">VanGogh - Řiď umění, nejen směr!</h1>
 <p align="center">
-<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/licence-%20MIT%20license-red"></a>
+<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/licence-%20GPL3%20licence-red"></a>
 <a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.cs.md"><img alt="Cs readme" src="https://img.shields.io/badge/jazyk-cs-red"></a>
 <a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.md"><img alt="Cs readme" src="https://img.shields.io/badge/jazyk-en-blue"></a>
 </p>
