@@ -1,17 +1,17 @@
-<p><img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/media/VanGogh.jpg"></p>
+<p><img src="./media/VanGogh.jpg"></p>
 <h1 align="center">VanGogh - Řiď umění, nejen směr!</h1>
 <p align="center">
-<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/licence-%20GPL3%20licence-red"></a>
-<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.cs.md"><img alt="Cs readme" src="https://img.shields.io/badge/jazyk-cs-red"></a>
-<a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/README.md"><img alt="Cs readme" src="https://img.shields.io/badge/jazyk-en-blue"></a>
+<a href="./LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/licence-%20GPL3%20licence-red"></a>
+<a href="./README.cs.md"><img alt="Cs readme" src="https://img.shields.io/badge/jazyk-cs-red"></a>
+<a href="./README.md"><img alt="Cs readme" src="https://img.shields.io/badge/jazyk-en-blue"></a>
 </p>
 
-VanGogh je vozítko, který využívá technologii 3D tisku, mikropočítače Microbit a spoustu jiných součástek jako serva a krokové motory. Finální produkt dokáže společně s <a href="https://github.com/Pixelgon/pxt-pixelgon-example">VanGogh extension knihovnou</a> kreslit. Od toho pochází i název VanGogh (Dodávka, která maluje). Lze využí jako rychlá a jednochá domonstrace programování.
+VanGogh je vozítko, který využívá technologii 3D tisku, mikropočítače Microbit a spoustu jiných součástek jako serva a krokové motory. Finální produkt dokáže společně s <a href="https://github.com/microbit-cz/pxt-vangogh-extension">VanGogh extension knihovnou</a> kreslit. Od toho pochází i název VanGogh (Dodávka, která maluje). Lze využí jako rychlá a jednochá domonstrace programování.
 
 # Co je potřeba k zhotovení?
 ## Součástky
 <ul>
-  <li><a href="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/STL">Konstrukce VanGogh + penholder</a></li>
+  <li><a href="./STL">Konstrukce VanGogh + penholder</a></li>
   <li><a href="https://www.printables.com/cs/model/459596-connection-hub-for-28byj-48-stepper">2x Adaptér 6514TT 65mm lego kola na krokové motory.</a></li>
   <li>Deska Micro:bit.</li>
   <li><a href="https://www.aliexpress.com/item/1005004959920270.html">Rozšiřujíci deska Motor:bit.</a></li>
@@ -22,7 +22,7 @@ VanGogh je vozítko, který využívá technologii 3D tisku, mikropočítače Mi
   <li>4x M3 šroub do 6mm, 4x do 4mm, 2x samovrtné do 6mm a 1x alespoň 14mm dlouhý.</li>
   <li>Podpěrové kolečko.</li>
   <li>20 x Lego čep 2780.</li>
-  <li><a href="https://github.com/Pixelgon/pxt-pixelgon-example">VanGogh extension knihovna.</a></li>
+  <li><a href="https://github.com/microbit-cz/pxt-vangogh-extension">VanGogh extension knihovna.</a></li>
 </ul>
 
 ## Předpoklady
