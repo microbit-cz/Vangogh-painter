@@ -1,4 +1,4 @@
-<p><img src="https://github.com/pslib-cz/2022-p2a-mme-pppp-Pixelgon/blob/main/media/VanGogh.jpg"></p>
+<p><img src="./media/VanGogh.jpg"></p>
 <h1 align="center">VanGogh - Drive art, not just the direction!</h1>
 <p align="center">
 <a href="./LICENSE"><img alt="GPL3 license" src="https://img.shields.io/badge/license-%20GPL3%20license-red"></a>
