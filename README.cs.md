@@ -1,5 +1,5 @@
 <p><img src="./media/VanGogh.jpg"></p>
-<h1 align="center">VanGogh - Řiď umění, nejen směr!</h1>
+<h1 align="center">VanGogh - Make art, not just ride.</h1>
 <p align="center">
 <a href="./LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/licence-%20GPL3%20licence-red"></a>
 <a href="./README.cs.md"><img alt="Cs readme" src="https://img.shields.io/badge/jazyk-cs-red"></a>
