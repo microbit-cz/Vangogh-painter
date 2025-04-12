@@ -20,7 +20,7 @@ VanGogh je vozítko, který využívá technologii 3D tisku, mikropočítače Mi
   <li>2x 6514TT 65mm Lego kolo.</li>
   <li>9x M3 insert s vnějším průměrem 5mm.</li>
   <li>4x M3 šroub do 6mm, 4x do 4mm, 2x samovrtné do 6mm a 1x alespoň 14mm dlouhý.</li>
-  <li>Podpěrové kolečko.</li>
+  <li><a href="./media/supportwheel.jpg">Podpůrné kolečko</a>. (jako <a href="https://www.aliexpress.com/item/1005006350270276.html">zde</a>, <a href="https://www.aliexpress.com/item/1005006452380644.html">zde</a>, nebo <a href="https://www.aliexpress.com/item/32572389926.html">zde</a>).</li>
   <li>20 x Lego čep 2780.</li>
   <li><a href="https://github.com/microbit-cz/pxt-vangogh-extension">VanGogh extension knihovna.</a></li>
 </ul>
